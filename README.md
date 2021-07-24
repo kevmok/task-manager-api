@@ -1,4 +1,4 @@
-# Task Manager Api
+# Task Manager API
 Api that takes different http requests to create users and tasks. The API is programmed with authentication middleware and bcrypt to keep an user's information private and safe.
 In addition, new users will receive an email(supported by sendgrid/mail) when creating an account and receive a farewell email at the time they choose to delete their account.
 
